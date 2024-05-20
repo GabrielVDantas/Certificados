@@ -9,5 +9,5 @@ Este repositório armazena certificados que ganhei ao participar de cursos compl
 ## Autor
 
 - Gabriel Viegas Dantas
-  - gvdantas2028@gmail.com
+  - gvd2808@gmail.com
 
